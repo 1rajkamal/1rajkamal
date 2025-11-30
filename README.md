@@ -139,5 +139,8 @@ A simple, clean & modern calculator built using HTML, CSS & JavaScript.
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=40&duration=3000&pause=1000&color=FF00D4&center=true&vCenter=true&width=500&height=100&lines=~+Raj+Kamal+~" />
+</p>
 
 
