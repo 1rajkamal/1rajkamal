@@ -16,11 +16,6 @@
 ⚡ Motto: “Build. Create. Improve. Repeat.”  
 
 
-![Status](https://img.shields.io/badge/Working%20On-Full%20Stack%20Projects-orange)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clouds.png" />
-</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
