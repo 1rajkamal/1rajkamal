@@ -38,12 +38,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1rajkamal&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rajkamal&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=1rajkamal&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
