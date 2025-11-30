@@ -14,6 +14,9 @@
 🛠️ Tech Explorer · Problem Solver · Creative Thinker  
 📚 Currently improving: MERN Stack, Python, Machine Learning  
 ⚡ Motto: “Build. Create. Improve. Repeat.”  
+
+![Status](https://img.shields.io/badge/Working%20On-Full%20Stack%20Projects-orange)
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -39,8 +42,6 @@
 
 ### 💾 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,figma,git)
 
 ## 📊 GitHub Stats
 
