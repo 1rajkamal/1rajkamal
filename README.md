@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1rajkamal&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
-## 🌟 Featured Projects (Glassmorphism Style)
+🌟 Featured Projects
 
 <div align="center">
 
@@ -97,7 +97,7 @@ A simple, clean & modern calculator built using HTML, CSS & JavaScript.
 </div>
 
 </div>
-## 📬 Connect With Me
+📬 Connect With Me
 
 <p align="center">
 
