@@ -40,4 +40,39 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1rajkamal&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
+## 🌟 Featured Projects (Card Style)
+
+<div align="center">
+
+### 🗣️ Alpha Talk — Custom Reply Chatbot  
+A smart chatbot that gives **custom replies** based on your text.  
+🔗 **Live:** https://alpha-kamal.onrender.com/login  
+🔗 **Repo:** https://github.com/1rajkamal/Alpha_Talk  
+
+---
+
+### 😊 MoodSense — Text-Based Mood Detection  
+ML model that reads your text & detects if you're **Happy 😊** or **Sad 😔**.  
+🔗 **Live:** https://moodsense-1.onrender.com  
+🔗 **Repo:** https://github.com/1rajkamal/MoodSense  
+
+---
+
+### 👨‍💻 Portfolio — Personal Website  
+A premium, stylish portfolio showcasing your skills & projects.  
+🔗 **Repo:** https://github.com/1rajkamal/Portfolio  
+
+---
+
+### 🌐 Landing Page — Modern UI  
+Clean & minimal landing page with a responsive layout.  
+🔗 **Repo:** https://github.com/1rajkamal/Landing_page  
+
+---
+
+### 🧮 Calculator  
+A clean, modern calculator made with HTML, CSS & JS.  
+🔗 **Repo:** https://github.com/1rajkamal/Calculator  
+
+</div>
 
