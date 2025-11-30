@@ -1,13 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/1rajkamal/1rajkamal/main/gif.gif" width="100%" />
 </p>
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80">
-  <rect width="100%" height="100%" fill="transparent"/>
-  <style>
-    text { font-family: 'Fira Code', monospace; font-size:36px; fill:#00CFFF; }
-  </style>
-
   <!-- We'll place each character in its own <tspan> and animate opacity -->
   <text x="10" y="50">
     <!-- Example text: "Hey there, I'm Raj!" -->
