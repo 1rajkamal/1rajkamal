@@ -1,22 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/1rajkamal/1rajkamal/main/gif.gif" width="100%" />
 </p>
-  <!-- We'll place each character in its own <tspan> and animate opacity -->
-  <text x="10" y="50">
-    <!-- Example text: "Hey there, I'm Raj!" -->
-    <tspan opacity="0">H
-      <animate attributeName="opacity" values="0;1" begin="0s" dur="0.01s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">e
-      <animate attributeName="opacity" values="0;1" begin="0.12s" dur="0.01s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">y
-      <animate attributeName="opacity" values="0;1" begin="0.24s" dur="0.01s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0"> 
-      <animate attributeName="opacity" values="0;1" begin="0.36s" dur="0.01s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">t
+ 
       <animate attributeName="opacity" values="0;1" begin="0.48s" dur="0.01s" fill="freeze"/>
     </tspan>
     <tspan opacity="0">h
@@ -57,6 +42,3 @@
     </tspan>
     <tspan opacity="0">!
       <animate attributeName="opacity" values="0;1" begin="2.04s" dur="0.01s" fill="freeze"/>
-    </tspan>
-  </text>
-</svg>
