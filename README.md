@@ -40,53 +40,60 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1rajkamal&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
-## 🚀 Featured Projects
+## 🌟 Featured Projects (Glassmorphism Style)
 
 <div align="center">
 
-<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #ff00ff; box-shadow: 0 0 15px #ff00ff;">
+<!-- Alpha Talk -->
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
   
-### ⚡ Alpha Talk — Custom Reply Chatbot  
-Smart chatbot that gives quick, custom responses to your messages.  
-🔗 Live • 🔗 Repo  
+### 🗣️ Alpha Talk — Custom Reply Chatbot  
+Smart chatbot that gives **custom replies** based on your message text.  
+🔗 **Live:** https://alpha-kamal.onrender.com/login  
+🔗 **Repo:** https://github.com/1rajkamal/Alpha_Talk  
 
 </div>
 <br>
 
-<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #00eaff; box-shadow: 0 0 15px #00eaff;">
-  
-### 😊 MoodSense — Mood Detection ML  
-AI reads your text → predicts **Happy 😊 / Sad 😔**  
-🔗 Live • 🔗 Repo  
+<!-- MoodSense -->
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
+
+### 😊 MoodSense — Text-Based Mood Detection  
+AI model that analyzes the text you type and predicts whether you're  
+**Happy 😊** or **Sad 😔** based on your message content.  
+🔗 **Live:** https://moodsense-1.onrender.com  
+🔗 **Repo:** https://github.com/1rajkamal/MoodSense  
 
 </div>
 <br>
 
-<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #39ff14; box-shadow: 0 0 15px #39ff14;">
+<!-- Portfolio -->
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
 
-### 👨‍💻 Portfolio  
-Clean, modern personal portfolio website.  
-🔗 Repo  
-
-</div>
-<br>
-
-<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #ffae00; box-shadow: 0 0 15px #ffae00;">
-
-### 🌐 Landing Page  
-A smooth and modern landing page UI.  
-🔗 Repo  
+### 👨‍💻 Personal Portfolio — Raj Kamal  
+A premium, modern personal portfolio showcasing your skills & projects.  
+🔗 **Repo:** https://github.com/1rajkamal/Portfolio  
 
 </div>
 <br>
 
-<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #00ff66; box-shadow: 0 0 15px #00ff66;">
+<!-- Landing Page -->
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
+
+### 🌐 Landing Page — Modern UI  
+A clean, modern & responsive landing page with smooth UI.  
+🔗 **Repo:** https://github.com/1rajkamal/Landing_page  
+
+</div>
+<br>
+
+<!-- Calculator -->
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
 
 ### 🧮 Calculator  
-Modern calculator with clean UI & JS logic.  
-🔗 Repo  
+A simple, clean & modern calculator built using HTML, CSS & JavaScript.  
+🔗 **Repo:** https://github.com/1rajkamal/Calculator  
 
 </div>
 
 </div>
-
