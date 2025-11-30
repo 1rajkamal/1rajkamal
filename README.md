@@ -48,6 +48,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=1rajkamal&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
 🌟 Featured Projects
 
 <div align="center">
@@ -105,6 +110,10 @@ A simple, clean & modern calculator built using HTML, CSS & JavaScript.
 </div>
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
 📬 Connect With Me
 
 <p align="center">
@@ -127,6 +136,9 @@ A simple, clean & modern calculator built using HTML, CSS & JavaScript.
 
 </p>
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 ## 💖 Thanks for Visiting!
 
