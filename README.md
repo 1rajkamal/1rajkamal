@@ -42,37 +42,49 @@
 </p>
 ## 🌟 Featured Projects (Card Style)
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-### 🗣️ Alpha Talk — Custom Reply Chatbot  
+### 🟦 Alpha Talk — Custom Reply Chatbot
+<div style="padding: 15px; border-radius: 12px; background: linear-gradient(135deg, #1e1e1e, #2e2e2e); width: 80%; margin: auto;">
 A smart chatbot that gives **custom replies** based on your text.  
 🔗 **Live:** https://alpha-kamal.onrender.com/login  
 🔗 **Repo:** https://github.com/1rajkamal/Alpha_Talk  
+</div>
 
----
+<br>
 
-### 😊 MoodSense — Text-Based Mood Detection  
+### 🟩 MoodSense — Text-Based Mood Detection  
+<div style="padding: 15px; border-radius: 12px; background: linear-gradient(135deg, #1e1e1e, #343434); width: 80%; margin: auto;">
 ML model that reads your text & detects if you're **Happy 😊** or **Sad 😔**.  
 🔗 **Live:** https://moodsense-1.onrender.com  
 🔗 **Repo:** https://github.com/1rajkamal/MoodSense  
+</div>
 
----
+<br>
 
-### 👨‍💻 Portfolio — Personal Website  
+### 🟧 Portfolio — Personal Website  
+<div style="padding: 15px; border-radius: 12px; background: linear-gradient(135deg, #1e1e1e, #3d3d3d); width: 80%; margin: auto;">
 A premium, stylish portfolio showcasing your skills & projects.  
 🔗 **Repo:** https://github.com/1rajkamal/Portfolio  
+</div>
 
----
+<br>
 
-### 🌐 Landing Page — Modern UI  
+### 🟪 Landing Page — Modern UI  
+<div style="padding: 15px; border-radius: 12px; background: linear-gradient(135deg, #1e1e1e, #454545); width: 80%; margin: auto;">
 Clean & minimal landing page with a responsive layout.  
 🔗 **Repo:** https://github.com/1rajkamal/Landing_page  
+</div>
 
----
+<br>
 
-### 🧮 Calculator  
+### 🟫 Calculator  
+<div style="padding: 15px; border-radius: 12px; background: linear-gradient(135deg, #1e1e1e, #4b4b4b); width: 80%; margin: auto;">
 A clean, modern calculator made with HTML, CSS & JS.  
 🔗 **Repo:** https://github.com/1rajkamal/Calculator  
+</div>
 
 </div>
 
