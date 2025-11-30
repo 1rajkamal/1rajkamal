@@ -42,48 +42,51 @@
 </p>
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-### 🤖 Alpha Talk  
-Smart custom-reply chatbot  
+<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #ff00ff; box-shadow: 0 0 15px #ff00ff;">
+  
+### ⚡ Alpha Talk — Custom Reply Chatbot  
+Smart chatbot that gives quick, custom responses to your messages.  
 🔗 Live • 🔗 Repo  
 
-</td>
-<td>
+</div>
+<br>
 
-### 😊 MoodSense  
-ML model for mood detection  
+<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #00eaff; box-shadow: 0 0 15px #00eaff;">
+  
+### 😊 MoodSense — Mood Detection ML  
+AI reads your text → predicts **Happy 😊 / Sad 😔**  
 🔗 Live • 🔗 Repo  
 
-</td>
-</tr>
+</div>
+<br>
 
-<tr>
-<td>
+<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #39ff14; box-shadow: 0 0 15px #39ff14;">
 
 ### 👨‍💻 Portfolio  
-Premium personal portfolio  
+Clean, modern personal portfolio website.  
 🔗 Repo  
 
-</td>
-<td>
+</div>
+<br>
+
+<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #ffae00; box-shadow: 0 0 15px #ffae00;">
 
 ### 🌐 Landing Page  
-Clean landing page  
+A smooth and modern landing page UI.  
 🔗 Repo  
 
-</td>
-</tr>
+</div>
+<br>
 
-<tr>
-<td>
+<div style="padding: 20px; border-radius: 15px; background: #0f0f0f; border: 2px solid #00ff66; box-shadow: 0 0 15px #00ff66;">
 
 ### 🧮 Calculator  
-Clean UI calculator  
+Modern calculator with clean UI & JS logic.  
 🔗 Repo  
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
+
