@@ -15,9 +15,13 @@
 📚 Currently improving: MERN Stack, Python, Machine Learning  
 ⚡ Motto: “Build. Create. Improve. Repeat.”  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=1rajkamal&theme=tokyonight&row=1&no-frame=true&no-bg=true" />
+</p>
+
+
 ![Status](https://img.shields.io/badge/Working%20On-Full%20Stack%20Projects-orange)
 
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ Tech Stack
 <p align="center">
