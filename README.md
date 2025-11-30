@@ -140,7 +140,10 @@ A simple, clean & modern calculator built using HTML, CSS & JavaScript.
   ⭐ If you like my work, consider giving a star to my repositories!
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=3500&pause=800&color=00E5FF&width=500&height=100&lines=Raj+Kamal;Full+Stack+Developer;Made+with+❤️+in+India" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180px"/>
 </p>
+
+<p align="center"><b>~ Raj Kamal ~</b></p>
+
 
 
