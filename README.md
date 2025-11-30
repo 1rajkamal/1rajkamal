@@ -118,4 +118,26 @@ A simple, clean & modern calculator built using HTML, CSS & JavaScript.
   </a>
 
 </p>
+---
+
+## 💖 Thanks for Visiting!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j5hYz6k8JqYxS/giphy.gif" width="120px" />
+</p>
+
+<p align="center">
+  Made with ❤️ by <strong>Raj Kamal</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1rajkamal&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
 
