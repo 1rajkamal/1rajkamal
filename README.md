@@ -14,6 +14,9 @@
 📚 Currently improving: MERN Stack, Python, Machine Learning  
 ⚡ Motto: “Build. Create. Improve. Repeat.”  
 ## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
 ### 👨‍💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
