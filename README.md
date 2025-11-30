@@ -8,7 +8,6 @@
 # Hey there, I'm Raj 👋
 
 ## ✨ About Me — Raj Kamal
-![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,figma,git)
 
 🌟 Full Stack Developer | 🎨 UI/UX Designer | 📊 Data Science Student  
 🔥 I enjoy building websites & tools that are both smart and beautiful  
@@ -40,6 +39,9 @@
 
 ### 💾 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,figma,git)
+
 ## 📊 GitHub Stats
 
 <p align="center">
