@@ -16,8 +16,8 @@
 ⚡ Motto: “Build. Create. Improve. Repeat.”  
 
 ![Status](https://img.shields.io/badge/Working%20On-Full%20Stack%20Projects-orange)
-![Coffee](https://img.shields.io/badge/Coffee%20Level-High☕-brown)
 
+![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ Tech Stack
 <p align="center">
