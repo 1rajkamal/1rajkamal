@@ -83,6 +83,7 @@ AI model that analyzes the text you type and predicts whether you're
 ### ⚡ How Fast You Are — Typing Reflex Speed Game  
 A fast-paced typing reflex game where falling words test your speed and accuracy.  
 Type quickly, avoid mistakes, and find out how fast you truly are! ⚡⌨️
+  
 🔗 **Live:** https://1rajkamal.github.io/how-fast-you-are/  
 🔗 **Repo:** https://github.com/1rajkamal/how-fast-you-are  
 </div>
