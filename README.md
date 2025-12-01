@@ -79,6 +79,19 @@ AI model that analyzes the text you type and predicts whether you're
 </div>
 <br>
 
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
+### ⚡ How Fast You Are — Typing Reflex Speed Game  
+A fast-paced typing survival game where words fall from the sky and your typing  
+speed decides your fate! Type quickly, avoid mistakes, and see how fast you truly are.  
+Built using **HTML, CSS & JavaScript** with real-time WPM, accuracy, and animations.  
+
+🔗 **Live:** https://1rajkamal.github.io/how-fast-you-are/  
+🔗 **Repo:** https://github.com/1rajkamal/how-fast-you-are  
+</div>
+<br>
+
+
+  
 <!-- Portfolio -->
 <div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
 
