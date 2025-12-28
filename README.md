@@ -92,7 +92,18 @@ your speed, accuracy, and performance in real time.
 </div>
 <br>
 
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
+  
+### ⚡ Responsive Coaching Website 
 
+A fully responsive Tution enquiry Website that give full information About the
+Classes like Fee ,classes ,Teachers. Provided Chat & Call Enquiry about the classes.
+
+🔗 Live: https://1rajkamal.github.io/brightpath/ 
+🔗 Repo: https://github.com/1rajkamal/brightpath
+ 
+</div>
+<br>
   
 <!-- Portfolio -->
 <div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
