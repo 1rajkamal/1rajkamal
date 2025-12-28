@@ -96,8 +96,7 @@ your speed, accuracy, and performance in real time.
   
 ### ⚡ Responsive Coaching Website 
 
-A fully responsive Tution enquiry Website that give full information About the
-Classes like Fee ,classes ,Teachers. Provided Chat & Call Enquiry about the classes.
+A fully responsive Tution enquiry Website that give full information About the classes & Fee
 
 🔗 Live: https://1rajkamal.github.io/brightpath/ 
 🔗 Repo: https://github.com/1rajkamal/brightpath
