@@ -109,8 +109,8 @@ A fully responsive Tution enquiry Website that give full information About the c
 
 ### 👨‍💻 Personal Portfolio — Raj Kamal  
 A premium, modern personal portfolio showcasing your skills & projects.  
-🔗 **Repo:** https://github.com/1rajkamal/Portfolio  
-
+🔗 **Repo:** https://github.com/1rajkamal/raj
+🔗 Live: https://1rajkamal.github.io/raj/
 </div>
 <br>
 
@@ -120,7 +120,6 @@ A premium, modern personal portfolio showcasing your skills & projects.
 ### 🌐 Landing Page — Modern UI  
 A clean, modern & responsive landing page with smooth UI.  
 🔗 **Repo:** https://github.com/1rajkamal/Landing_page  
-
 </div>
 <br>
 
