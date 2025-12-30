@@ -80,6 +80,14 @@ AI model that analyzes the text you type and predicts whether you're
 <br>
 
 <div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
+
+### 🌐 About website — Modern page About Myself 
+ An interactive personal websiteto present projects, skills, certificates, and experiences.
+🔗 **Repo:** https://github.com/1rajkamal/journey
+🔗 **Live:** https://1rajkamal.github.io/journey/
+</div>
+<br>
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
   
 ### ⚡ How Fast You Are — Typing Reflex Speed Game  
 
@@ -111,15 +119,6 @@ A fully responsive Tution enquiry Website that give full information About the c
 A premium, modern personal portfolio showcasing your skills & projects.  
 🔗 **Repo:** https://github.com/1rajkamal/raj
 🔗 Live: https://1rajkamal.github.io/raj/
-</div>
-<br>
-
-<!-- Landing Page -->
-<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
-
-### 🌐 Landing Page — Modern UI  
-A clean, modern & responsive landing page with smooth UI.  
-🔗 **Repo:** https://github.com/1rajkamal/Landing_page  
 </div>
 <br>
 
