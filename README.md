@@ -82,7 +82,8 @@ AI model that analyzes the text you type and predicts whether you're
 <div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
 
 ### 🌐 About website — Modern page About Myself 
- An interactive personal websiteto present projects, skills, certificates, and experiences.
+ An interactive personal websiteto present projects, 
+ skills, certificates, and experiences.
 🔗 **Repo:** https://github.com/1rajkamal/journey
 🔗 **Live:** https://1rajkamal.github.io/journey/
 </div>
