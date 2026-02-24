@@ -83,7 +83,7 @@ AI model that analyzes the text you type and predicts whether you're
 
 ### 🌐 About website — Modern page About Myself 
  An interactive personal website About me
-🔗 **Repo:** https://github.com/1rajkamal/journey
+🔗 **Repo:** https://github.com/1rajkamal/mine
 🔗 **Live:** https://1rajkamal.github.io/mine/
 </div>
 <br>
