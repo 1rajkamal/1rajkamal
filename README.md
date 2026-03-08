@@ -88,6 +88,14 @@ AI model that analyzes the text you type and predicts whether you're
 </div>
 <br>
 <div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
+
+### 🌐 Expense-Tracker — Track your expenses 
+A modern and responsive Expense Tracker web application that allows users to record income and expenses, analyze spending patterns, and manage personal finances efficiently.
+🔗 **Repo:** https://github.com/1rajkamal/Expense-Tracker
+🔗 **Live:** https://1rajkamal.github.io/Expense-Tracker/
+</div>
+<br>
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
   
 ### ⚡ How Fast You Are — Typing Reflex Speed Game  
 
