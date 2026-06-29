@@ -70,6 +70,18 @@ Smart chatbot that gives **custom replies** based on your message text.
 <!-- MoodSense -->
 <div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
 
+### 😊 LoanPredict Ai — Predict Loan approvel based on the user input 
+A Flask-based Machine Learning application that predicts loan approval using
+applicant details with fast and accurate results
+🔗 **Live:** https://loan-predictor-ns16.onrender.com/  
+🔗 **Repo:** https://github.com/1rajkamal/loan-predictor 
+
+</div>
+<br>
+
+<!-- MoodSense -->
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.07); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); width:80%; margin:auto; box-shadow:0 0 12px rgba(255,255,255,0.1);">
+
 ### 😊 MoodSense — Text-Based Mood Detection  
 AI model that analyzes the text you type and predicts whether you're  
 **Happy 😊** or **Sad 😔** based on your message content.  
