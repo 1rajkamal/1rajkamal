@@ -121,7 +121,7 @@ I am a Computer Science & Data Science undergraduate passionate about building p
 
 ## 📬 Connect With Me
 
-- **Portfolio:** [1rajkamal.github.io/Portfolio](https://rajkamall.me/)
+- **Portfolio:** [rajkamll.me](https://rajkamall.me/)
 - **LinkedIn:** [linkedin.com/in/raj-kamal-490176291](https://www.linkedin.com/in/raj-kamal-490176291/)
 - **GitHub:** [github.com/1rajkamal](https://github.com/1rajkamal)
 - **Email:** [rajkamal9741@gmail.com](mailto:rajkamal9741@gmail.com)
