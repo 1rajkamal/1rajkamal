@@ -1,6 +1,81 @@
+<!-- ============================================================================== -->
+<!-- KDOCX APP LINK CONFIGURATION: Update this URL with your Play Store / APK link -->
+<!-- ============================================================================== -->
+<!-- PLACEHOLDER_KDOCX_LINK: https://github.com/1rajkamal/KDocx -->
+
+<p align="center">
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="assets/kdocx_developer_banner.jpg" alt="KDocx – Documents Made Smarter | Developed by Raj Kamal" width="100%" style="max-width: 100%; height: auto;" />
+  </a>
+</p>
+
+<div align="center">
+
+# 📄 KDocx — Documents Made Smarter.
+### *Your Free, Offline All-in-One Document Toolkit for Android.*
+
+[![100% Free](https://img.shields.io/badge/100%25-Free-00C853?style=for-the-badge&logo=googleplay&logoColor=white)](#)
+[![100% Offline](https://img.shields.io/badge/100%25-Offline-7C4DFF?style=for-the-badge&logo=icloud&logoColor=white)](#)
+[![No Signup Required](https://img.shields.io/badge/No%20Signup-Required-00B0FF?style=for-the-badge)](#)
+[![Private & Secure](https://img.shields.io/badge/Private%20%26-Secure-FF6D00?style=for-the-badge&logo=security&logoColor=white)](#)
+[![Lightweight Native](https://img.shields.io/badge/Fast%20%26-Lightweight-E040FB?style=for-the-badge&logo=android&logoColor=white)](#)
+
+<br/>
+
+<p align="center">
+  A high-performance, privacy-first Android application designed to manage, view, convert, edit, and secure your documents with <strong>zero cloud dependencies</strong> and <strong>complete client-side isolation</strong>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/📲%20Download%20KDocx-Android%20APK-7C4DFF?style=for-the-badge&logo=android&logoColor=white" alt="Download KDocx APK" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/✨%20Explore%20KDocx-Repository%20%26%20Features-311B92?style=for-the-badge&logo=github&logoColor=white" alt="Explore KDocx" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### ⚡ Why Choose KDocx?
+
+| Benefit | Guarantee |
+| :--- | :--- |
+| 💸 **100% Free** | All features and tools are completely free forever — no subscriptions, paywalls, or feature locks. |
+| 📴 **100% Offline** | Zero cloud APIs, no external telemetry servers. All document processing happens strictly on your device. |
+| 🔓 **No Signup Required** | Instant access. Open the app and start working immediately without accounts, passwords, or emails. |
+| 🛡️ **Private & Secure** | Your sensitive files never leave your phone storage; strict scoped storage and zero unauthorized modifications. |
+| 🚀 **Lightweight & Fast** | Built natively with Jetpack Compose & Kotlin for blazing-fast rendering and minimal battery consumption. |
+
+---
+
+<p align="center">
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="assets/kdocx_features_banner.jpg" alt="Everything for Your Documents – KDocx Features" width="100%" style="max-width: 100%; height: auto;" />
+  </a>
+</p>
+
+### 🛠️ Everything for Your Documents — All in One App
+
+- 📑 **Comprehensive PDF Toolkit:** Merge multiple PDFs, split page ranges, compress file size, decrypt & password-protect, extract pages, rotate, and reorder sheets effortlessly.
+- 🔄 **Local Office Document Converter:** Convert Word (`.docx`), Excel (`.xlsx`), PowerPoint (`.pptx`), and CSV to formatted PDF documents without internet access.
+- 📷 **High-Resolution Document Scanner:** Integrated document camera scanner with edge detection, perspective adjustment, and one-tap PDF compilation.
+- ✏️ **Edit, Annotate & Sign:** Add text watermarks, stamp digital signatures, draw annotations, and highlight directly on PDF pages.
+- 📖 **High-Fidelity Document Viewers:** Original PDF reader with smooth pinch-to-zoom, translucent yellow search highlights, eye-comfort themes, and dedicated Excel & PowerPoint viewers.
+- 📁 **Smart Offline File Manager:** Categorize files (PDF, Word, Excel, PPT, Code, Data), instant search, multi-attribute sorting, and fast bookmarking.
+
+<p align="center">
+  <sub>Crafted with ❤️ by <strong>Raj Kamal</strong> • Developer of KDocx</sub>
+</p>
+
+---
+
 # Raj Kamal
 
-**B.Tech CSE (Data Science) Student | Full Stack Developer | AI/ML & Data Science**  
+**B.Tech CSE (Data Science) Student | Full Stack Developer | Android & AI/ML Engineer**  
 *Aditya University (Class of 2027)*  
 [Portfolio](https://1rajkamal.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/raj-kamal-490176291/) • [GitHub](https://github.com/1rajkamal) • [Email](mailto:rajkamal9741@gmail.com)
 
@@ -8,11 +83,19 @@
 
 ## 🎯 Profile Overview
 
-I am a Computer Science & Data Science undergraduate passionate about building practical AI-powered applications, machine learning pipelines, and robust full-stack software solutions. My experience spans end-to-end predictive modeling with Scikit-learn, applied Generative AI integrations, and scalable web backends with modern frontend architectures.
+I am a Computer Science & Data Science undergraduate passionate about building high-performance Android applications, practical AI-powered systems, machine learning pipelines, and robust full-stack software solutions. My experience spans mobile development with Kotlin and Jetpack Compose, predictive modeling with Scikit-learn, applied Generative AI integrations, and scalable web backends.
 
 ---
 
 ## 🛠️ Technical Skills
+
+### 📱 Android & Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/Dagger%20Hilt-00599C?style=flat-square)
+![Room DB](https://img.shields.io/badge/Room%20Database-3DDC84?style=flat-square&logo=sqlite&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white)
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,10 +135,20 @@ I am a Computer Science & Data Science undergraduate passionate about building p
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ---
 
 ## 🌟 Featured Engineering Projects
+
+### 📱 [KDocx — All-in-One Offline Android Document Manager & PDF Toolkit](https://github.com/1rajkamal/KDocx)
+> **Stack:** Kotlin, Jetpack Compose, Material 3, Hilt, Room DB, Android Graphics PdfRenderer, Coroutines & Flow  
+- Production-grade, 100% offline Android document processing engine featuring 16+ PDF manipulation tools, local Office format converter (Word, Excel, PowerPoint to PDF), and high-resolution camera scanner.
+- Client-side document privacy guarantee with zero cloud dependencies and zero background telemetry.
+- Custom liquid glass UI theme, multi-format file manager, responsive pinch-to-zoom readers, and dark/sepia reading modes.
+- 🔗 **Repo / App:** [github.com/1rajkamal/KDocx](https://github.com/1rajkamal/KDocx)
+
+---
 
 ### 1. [Alpha Talk — AI Chat + Secure Authentication System](https://github.com/1rajkamal/Alpha_Talk)
 > **Stack:** Python, Flask, SQLite3, Bcrypt, HTML5, CSS3  
@@ -121,7 +214,7 @@ I am a Computer Science & Data Science undergraduate passionate about building p
 
 ## 📬 Connect With Me
 
-- **Portfolio:** [rajkamll.me](https://rajkamall.me/)
+- **Portfolio:** [rajkamall.me](https://rajkamall.me/)
 - **LinkedIn:** [linkedin.com/in/raj-kamal-490176291](https://www.linkedin.com/in/raj-kamal-490176291/)
 - **GitHub:** [github.com/1rajkamal](https://github.com/1rajkamal)
 - **Email:** [rajkamal9741@gmail.com](mailto:rajkamal9741@gmail.com)
