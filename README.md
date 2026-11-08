@@ -1,13 +1,3 @@
-<!-- ============================================================================== -->
-<!-- KDOCX APP LINK CONFIGURATION: Update this URL with your Play Store / APK link -->
-<!-- ============================================================================== -->
-<!-- PLACEHOLDER_KDOCX_LINK: https://github.com/1rajkamal/KDocx -->
-
-<p align="center">
-  <a href="https://github.com/1rajkamal/KDocx">
-    <img src="assets/kdocx_developer_banner.jpg" alt="KDocx – Documents Made Smarter | Developed by Raj Kamal" width="100%" style="max-width: 100%; height: auto;" />
-  </a>
-</p>
 
 # Raj Kamal
 
