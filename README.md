@@ -9,70 +9,6 @@
   </a>
 </p>
 
-<div align="center">
-
-# 📄 KDocx — Documents Made Smarter.
-### *Your Free, Offline All-in-One Document Toolkit for Android.*
-
-[![100% Free](https://img.shields.io/badge/100%25-Free-00C853?style=for-the-badge&logo=googleplay&logoColor=white)](#)
-[![100% Offline](https://img.shields.io/badge/100%25-Offline-7C4DFF?style=for-the-badge&logo=icloud&logoColor=white)](#)
-[![No Signup Required](https://img.shields.io/badge/No%20Signup-Required-00B0FF?style=for-the-badge)](#)
-[![Private & Secure](https://img.shields.io/badge/Private%20%26-Secure-FF6D00?style=for-the-badge&logo=security&logoColor=white)](#)
-[![Lightweight Native](https://img.shields.io/badge/Fast%20%26-Lightweight-E040FB?style=for-the-badge&logo=android&logoColor=white)](#)
-
-<br/>
-
-<p align="center">
-  A high-performance, privacy-first Android application designed to manage, view, convert, edit, and secure your documents with <strong>zero cloud dependencies</strong> and <strong>complete client-side isolation</strong>.
-</p>
-
-<p align="center">
-  <a href="https://github.com/1rajkamal/KDocx">
-    <img src="https://img.shields.io/badge/📲%20Download%20KDocx-Android%20APK-7C4DFF?style=for-the-badge&logo=android&logoColor=white" alt="Download KDocx APK" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/1rajkamal/KDocx">
-    <img src="https://img.shields.io/badge/✨%20Explore%20KDocx-Repository%20%26%20Features-311B92?style=for-the-badge&logo=github&logoColor=white" alt="Explore KDocx" />
-  </a>
-</p>
-
-</div>
-
----
-
-### ⚡ Why Choose KDocx?
-
-| Benefit | Guarantee |
-| :--- | :--- |
-| 💸 **100% Free** | All features and tools are completely free forever — no subscriptions, paywalls, or feature locks. |
-| 📴 **100% Offline** | Zero cloud APIs, no external telemetry servers. All document processing happens strictly on your device. |
-| 🔓 **No Signup Required** | Instant access. Open the app and start working immediately without accounts, passwords, or emails. |
-| 🛡️ **Private & Secure** | Your sensitive files never leave your phone storage; strict scoped storage and zero unauthorized modifications. |
-| 🚀 **Lightweight & Fast** | Built natively with Jetpack Compose & Kotlin for blazing-fast rendering and minimal battery consumption. |
-
----
-
-<p align="center">
-  <a href="https://github.com/1rajkamal/KDocx">
-    <img src="assets/kdocx_features_banner.jpg" alt="Everything for Your Documents – KDocx Features" width="100%" style="max-width: 100%; height: auto;" />
-  </a>
-</p>
-
-### 🛠️ Everything for Your Documents — All in One App
-
-- 📑 **Comprehensive PDF Toolkit:** Merge multiple PDFs, split page ranges, compress file size, decrypt & password-protect, extract pages, rotate, and reorder sheets effortlessly.
-- 🔄 **Local Office Document Converter:** Convert Word (`.docx`), Excel (`.xlsx`), PowerPoint (`.pptx`), and CSV to formatted PDF documents without internet access.
-- 📷 **High-Resolution Document Scanner:** Integrated document camera scanner with edge detection, perspective adjustment, and one-tap PDF compilation.
-- ✏️ **Edit, Annotate & Sign:** Add text watermarks, stamp digital signatures, draw annotations, and highlight directly on PDF pages.
-- 📖 **High-Fidelity Document Viewers:** Original PDF reader with smooth pinch-to-zoom, translucent yellow search highlights, eye-comfort themes, and dedicated Excel & PowerPoint viewers.
-- 📁 **Smart Offline File Manager:** Categorize files (PDF, Word, Excel, PPT, Code, Data), instant search, multi-attribute sorting, and fast bookmarking.
-
-<p align="center">
-  <sub>Crafted with ❤️ by <strong>Raj Kamal</strong> • Developer of KDocx</sub>
-</p>
-
----
-
 # Raj Kamal
 
 **B.Tech CSE (Data Science) Student | Full Stack Developer | Android & AI/ML Engineer**  
@@ -83,7 +19,7 @@
 
 ## 🎯 Profile Overview
 
-I am a Computer Science & Data Science undergraduate passionate about building high-performance Android applications, practical AI-powered systems, machine learning pipelines, and robust full-stack software solutions. My experience spans mobile development with Kotlin and Jetpack Compose, predictive modeling with Scikit-learn, applied Generative AI integrations, and scalable web backends.
+I am a Computer Science & Data Science undergraduate passionate about building high-performance Android applications, practical AI-powered systems, machine learning pipelines, and robust full-stack software solutions. My experience spans mobile engineering with Kotlin and Jetpack Compose, predictive modeling with Scikit-learn, applied Generative AI integrations, and scalable web backends with modern architectures.
 
 ---
 
@@ -141,12 +77,74 @@ I am a Computer Science & Data Science undergraduate passionate about building h
 
 ## 🌟 Featured Engineering Projects
 
-### 📱 [KDocx — All-in-One Offline Android Document Manager & PDF Toolkit](https://github.com/1rajkamal/KDocx)
-> **Stack:** Kotlin, Jetpack Compose, Material 3, Hilt, Room DB, Android Graphics PdfRenderer, Coroutines & Flow  
-- Production-grade, 100% offline Android document processing engine featuring 16+ PDF manipulation tools, local Office format converter (Word, Excel, PowerPoint to PDF), and high-resolution camera scanner.
-- Client-side document privacy guarantee with zero cloud dependencies and zero background telemetry.
-- Custom liquid glass UI theme, multi-format file manager, responsive pinch-to-zoom readers, and dark/sepia reading modes.
-- 🔗 **Repo / App:** [github.com/1rajkamal/KDocx](https://github.com/1rajkamal/KDocx)
+### 📱 [KDocx — Documents Made Smarter](https://github.com/1rajkamal/KDocx)
+> **Your Free, Offline All-in-One Document Toolkit for Android.**
+
+<p align="center">
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="assets/kdocx_features_banner.jpg" alt="Everything for Your Documents – KDocx Features" width="100%" style="max-width: 100%; height: auto;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/100%25-Free-00C853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/100%25-Offline-7C4DFF?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/No%20Signup-Required-00B0FF?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/Private%20%26-Secure-FF6D00?style=for-the-badge&logo=security&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/Fast%20%26-Lightweight-E040FB?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/📲%20Download%20KDocx-Android%20APK-7C4DFF?style=for-the-badge&logo=android&logoColor=white" alt="Download KDocx APK" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/1rajkamal/KDocx">
+    <img src="https://img.shields.io/badge/✨%20Explore%20KDocx-Repository%20%26%20Features-311B92?style=for-the-badge&logo=github&logoColor=white" alt="Explore KDocx" />
+  </a>
+</p>
+
+> **Stack:** Kotlin, Jetpack Compose, Material 3, MVVM + Clean Architecture, Dagger Hilt, Room DB, Android Graphics PdfRenderer, Coroutines & Flow  
+> 🔗 **Explore / Download:** [github.com/1rajkamal/KDocx](https://github.com/1rajkamal/KDocx)
+
+A high-performance, privacy-first Android application designed to manage, view, convert, edit, and secure your documents with **zero cloud dependencies** and **complete client-side isolation**.
+
+#### ⚡ Why Choose KDocx?
+
+| Benefit | Guarantee |
+| :--- | :--- |
+| 💸 **100% Free** | All features and tools are completely free forever — no subscriptions, paywalls, or feature locks. |
+| 📴 **100% Offline** | Zero cloud APIs, no external telemetry servers. All document processing happens strictly on your device. |
+| 🔓 **No Signup Required** | Instant access. Open the app and start working immediately without accounts, passwords, or emails. |
+| 🛡️ **Private & Secure** | Your sensitive files never leave your phone storage; strict scoped storage and zero unauthorized modifications. |
+| 🚀 **Lightweight & Fast** | Built natively with Jetpack Compose & Kotlin for blazing-fast rendering and minimal battery consumption. |
+
+#### 🛠️ Everything for Your Documents — Core Capabilities
+
+- 📑 **Comprehensive PDF Toolkit:** Merge multiple PDFs, split page ranges, compress file size, decrypt & password-protect, extract pages, rotate, and reorder sheets effortlessly.
+- 🔄 **Local Office Document Converter:** Convert Word (`.docx`), Excel (`.xlsx`), PowerPoint (`.pptx`), and CSV to formatted PDF documents without internet access.
+- 📷 **High-Resolution Document Scanner:** Integrated document camera scanner with edge detection, perspective adjustment, and one-tap PDF compilation.
+- ✏️ **Edit, Annotate & Sign:** Add text watermarks, stamp digital signatures, draw annotations, and highlight directly on PDF pages.
+- 📖 **High-Fidelity Document Viewers:** Original PDF reader with smooth pinch-to-zoom, translucent yellow search highlights, eye-comfort themes, and dedicated Excel & PowerPoint viewers.
+- 📁 **Smart Offline File Manager:** Categorize files (PDF, Word, Excel, PPT, Code, Data), instant search, multi-attribute sorting, and fast bookmarking.
+
+<p align="center">
+  <sub>Crafted with ❤️ by <strong>Raj Kamal</strong> • Developer of KDocx</sub>
+</p>
 
 ---
 
