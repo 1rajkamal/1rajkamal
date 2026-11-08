@@ -67,50 +67,45 @@ I am a Computer Science & Data Science undergraduate passionate about building h
 
 ## 🌟 Featured Engineering Projects
 
-### 📱 [KDocx — Documents Made Smarter](https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1)
+### 📱 [KDocx — Documents Made Smarter](https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk)
 > **Your Free, Offline All-in-One Document Toolkit for Android.**
 
 <p align="center">
-  <a href="https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1">
+  <a href="https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk">
     <img src="assets/kdocx_features_banner.jpg" alt="Everything for Your Documents – KDocx Features" width="100%" style="max-width: 100%; height: auto;" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1">
+  <a href="https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk">
     <img src="https://img.shields.io/badge/100%25-Free-00C853?style=for-the-badge&logo=googleplay&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1">
+  <a href="https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk">
     <img src="https://img.shields.io/badge/100%25-Offline-7C4DFF?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1">
+  <a href="https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk">
     <img src="https://img.shields.io/badge/No%20Signup-Required-00B0FF?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1">
+  <a href="https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk">
     <img src="https://img.shields.io/badge/Private%20%26-Secure-FF6D00?style=for-the-badge&logo=security&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1">
+  <a href="https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk">
     <img src="https://img.shields.io/badge/Fast%20%26-Lightweight-E040FB?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/1rajkamal/1rajkamal/releases/download/v1.1.1/KDocx_v1.1.1.apk">
+  <a href="https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk">
     <img src="https://img.shields.io/badge/📲%20Download%20KDocx-Android%20APK%20(22.9%20MB)-7C4DFF?style=for-the-badge&logo=android&logoColor=white" alt="Download KDocx APK" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1">
-    <img src="https://img.shields.io/badge/✨%20Explore%20KDocx-Release%20Notes%20%26%20Specs-311B92?style=for-the-badge&logo=github&logoColor=white" alt="Explore KDocx Release" />
   </a>
 </p>
 
 > **Stack:** Kotlin, Jetpack Compose, Material 3, MVVM + Clean Architecture, Dagger Hilt, Room DB, Android Graphics PdfRenderer, Coroutines & Flow  
-> 📥 **Direct Download:** [KDocx_v1.1.1.apk (22.9 MB)](https://github.com/1rajkamal/1rajkamal/releases/download/v1.1.1/KDocx_v1.1.1.apk)  
-> 🏷️ **Release & Specs:** [KDocx v1.1.1 Official Release Notes](https://github.com/1rajkamal/1rajkamal/releases/tag/v1.1.1)
+> 📥 **Direct App Download:** [KDocx_v1.1.1.apk (22.9 MB)](https://github.com/1rajkamal/1rajkamal/raw/main/app/KDocx_v1.1.1.apk)
 
 A high-performance, privacy-first Android application designed to manage, view, convert, edit, and secure your documents with **zero cloud dependencies** and **complete client-side isolation**.
 
